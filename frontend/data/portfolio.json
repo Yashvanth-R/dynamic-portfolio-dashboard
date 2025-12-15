@@ -1,0 +1,210 @@
+[
+  {
+    "symbol": "HDFCBANK",
+    "particulars": "HDFC Bank",
+    "sector": "Financials",
+    "purchasePrice": 1490,
+    "quantity": 50,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "particulars": "Bajaj Finance",
+    "sector": "Financials",
+    "purchasePrice": 6466,
+    "quantity": 15,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ICICIBANK",
+    "particulars": "ICICI Bank",
+    "sector": "Financials",
+    "purchasePrice": 780,
+    "quantity": 84,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BAJAJHFL",
+    "particulars": "Bajaj Housing Finance",
+    "sector": "Financials",
+    "purchasePrice": 130,
+    "quantity": 504,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SAVANIFIN",
+    "particulars": "Savani Financials",
+    "sector": "Financials",
+    "purchasePrice": 24,
+    "quantity": 1080,
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "AFFLE",
+    "particulars": "Affle India",
+    "sector": "Technology",
+    "purchasePrice": 1151,
+    "quantity": 50,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LTIM",
+    "particulars": "LTI Mindtree",
+    "sector": "Technology",
+    "purchasePrice": 4775,
+    "quantity": 16,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KPITTECH",
+    "particulars": "KPIT Technologies",
+    "sector": "Technology",
+    "purchasePrice": 672,
+    "quantity": 61,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATATECH",
+    "particulars": "Tata Technologies",
+    "sector": "Technology",
+    "purchasePrice": 1072,
+    "quantity": 63,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BLS",
+    "particulars": "BLS E-Services",
+    "sector": "Technology",
+    "purchasePrice": 232,
+    "quantity": 191,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TANLA",
+    "particulars": "Tanla Platforms",
+    "sector": "Technology",
+    "purchasePrice": 1134,
+    "quantity": 45,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DMART",
+    "particulars": "DMart",
+    "sector": "Consumer",
+    "purchasePrice": 3777,
+    "quantity": 27,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATACONSUM",
+    "particulars": "Tata Consumer Products",
+    "sector": "Consumer",
+    "purchasePrice": 845,
+    "quantity": 90,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PIDILITIND",
+    "particulars": "Pidilite Industries",
+    "sector": "Consumer",
+    "purchasePrice": 2376,
+    "quantity": 36,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATAPOWER",
+    "particulars": "Tata Power",
+    "sector": "Power",
+    "purchasePrice": 224,
+    "quantity": 225,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KPIGREEN",
+    "particulars": "KPI Green Energy",
+    "sector": "Power",
+    "purchasePrice": 875,
+    "quantity": 50,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SUZLON",
+    "particulars": "Suzlon Energy",
+    "sector": "Power",
+    "purchasePrice": 44,
+    "quantity": 450,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GENSOL",
+    "particulars": "Gensol Engineering",
+    "sector": "Power",
+    "purchasePrice": 998,
+    "quantity": 45,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HARIOMPIPE",
+    "particulars": "Hariom Pipes",
+    "sector": "Pipes",
+    "purchasePrice": 580,
+    "quantity": 60,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASTRAL",
+    "particulars": "Astral Limited",
+    "sector": "Pipes",
+    "purchasePrice": 1517,
+    "quantity": 56,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "POLYCAB",
+    "particulars": "Polycab India",
+    "sector": "Pipes",
+    "purchasePrice": 2818,
+    "quantity": 28,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CLEAN",
+    "particulars": "Clean Science and Technology",
+    "sector": "Others",
+    "purchasePrice": 1610,
+    "quantity": 32,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DEEPAKNTR",
+    "particulars": "Deepak Nitrite",
+    "sector": "Others",
+    "purchasePrice": 2248,
+    "quantity": 27,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FINEORG",
+    "particulars": "Fine Organic Industries",
+    "sector": "Others",
+    "purchasePrice": 4284,
+    "quantity": 16,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GRAVITA",
+    "particulars": "Gravita India",
+    "sector": "Others",
+    "purchasePrice": 2037,
+    "quantity": 8,
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SBILIFE",
+    "particulars": "SBI Life Insurance",
+    "sector": "Others",
+    "purchasePrice": 1197,
+    "quantity": 49,
+    "exchange": "NSE"
+  }
+]
