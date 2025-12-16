@@ -42,9 +42,6 @@ app.use((err: any, req: express.Request, res: express.Response, next: express.Ne
 });
 
 app.listen(PORT, () => {
-  console.log(`🚀 Backend server running on http://localhost:${PORT}`);
-  console.log(`📊 API endpoints available at http://localhost:${PORT}/api`);
-  console.log(`\n⚠️  NOTE: Web scraping may fail due to site restrictions.`);
-  console.log(`   The app will automatically use realistic mock data as fallback.`);
-  console.log(`   This is expected behavior and the dashboard will work normally.\n`);
+  console.log(` Backend server running on http://localhost:${PORT}`);
+  console.log(` API endpoints available at http://localhost:${PORT}/api`);
 });
