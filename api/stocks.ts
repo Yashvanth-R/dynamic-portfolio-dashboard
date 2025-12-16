@@ -88,7 +88,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     return;
   }
 
-  if (req.method === 'POST' && req.url === '/api/stocks/batch') {
+  if (req.method === 'POST') {
     try {
       const { symbols } = req.body as { symbols: string[] };
 
@@ -114,5 +114,5 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     }
   }
 
-  return res.status(404).json({ error: 'Not found' });
+  return res.status(405).json({ error: 'Method not allowed' });
 }
